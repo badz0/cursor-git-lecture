@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 ﻿1. Богдан Муранець
 2. Vasylyk Serhii
 3. Nazar Shtypka
+=======
+1. Богдан Муранець
+2. Vasylyk Serhii
+3.Yuriy Rybak
+>>>>>>> a3ff75ed43fe0983099df044e00e82fae5988793
