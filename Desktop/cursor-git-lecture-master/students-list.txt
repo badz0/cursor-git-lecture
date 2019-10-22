@@ -1,6 +1,6 @@
-﻿1. Богдан Муранець
+﻿﻿1. Богдан Муранець
 2. Vasylyk Serhii
-3.Yuriy Rybak
+3. Yuriy Rybak
 4. Nadiia Kozhushko
 5. Oleh Starodubets
 6. Shcherbina Olena
@@ -11,4 +11,5 @@
 11. Volodymyr Pankivskyy
 ocherednoy. Taras Kravets
 12.Sultanov Aleksandre
-13.Diana Varvadyuk
+13. Ptashinskaya Ira
+14.Varvadyuk Diana
