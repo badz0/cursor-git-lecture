@@ -13,4 +13,8 @@ ocherednoy. Taras Kravets
 12.Sultanov Aleksandre
 13. Ptashinskaya Ira
 14. Alyona Havrylenko
+<<<<<<< HEAD
 15. Dovhal Oleksandr
+=======
+15.Vasyl Muran
+>>>>>>> eb20801986799d6d609c45a6c9ed23da0a3934dc
