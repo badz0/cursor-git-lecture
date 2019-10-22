@@ -8,5 +8,10 @@
 8. Humeniuk Marina
 9. Andriy Homtsiy
 10. Nazar Yanchishin
+<<<<<<< HEAD
+11. Volodymyr Pankivskyy
+=======
 ocherednoy. Taras Kravets
-12.Diana Varvadyuk
+>>>>>>> d8990d3571de3386f92f855b5470fcaf33b4ca01
+12.Sultanov Aleksandre
+13.Diana Varvadyuk
