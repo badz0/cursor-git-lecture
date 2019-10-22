@@ -14,7 +14,6 @@
 14. Alyona Havrylenko
 15. Dovhal Oleksandr
 16.Vasyl Muran
-17. Mariia Tkachova
-18. Taras Kravets
+17. Taras Kravets
 
 >>>>>>> eb20801986799d6d609c45a6c9ed23da0a3934dc
