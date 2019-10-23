@@ -1,4 +1,4 @@
-1. Богдан Муранець
+﻿1. Богдан Муранець
 2. Vasylyk Serhii
 3. Yuriy Rybak
 4. Nadiia Kozhushko
@@ -16,5 +16,4 @@
 16.Vasyl Muran
 17. Taras Kravets
 18. Maria Tkachova
-
->>>>>>> eb20801986799d6d609c45a6c9ed23da0a3934dc
+19. Oleksiuk Ivan
